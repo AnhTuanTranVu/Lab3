@@ -218,8 +218,11 @@
     <Content Include="Content\Site.css" />
     <Content Include="Images\daotinh.jpg" />
     <Content Include="Images\dutinh.jpg" />
+    <Content Include="Images\HTML5 &amp; CSS Responsive web Design cookbook.jpg" />
+    <Content Include="Images\HTML5 &amp; CSS3 The Complete Manual.png" />
     <Content Include="Images\khachsanhoangtuyen.jpg" />
     <Content Include="Images\muoihainam.jpg" />
+    <Content Include="Images\Professional ASP.NET MVC5.jpg" />
     <Content Include="Images\tayxuatngocmon.jpg" />
     <Content Include="Images\time.png" />
     <Content Include="Scripts\ai.0.22.9-build00167.js" />
@@ -228,9 +231,6 @@
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
-    <Content Include="ApplicationInsights.config">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -285,6 +285,8 @@
     <Content Include="Views\Book\ListBook.cshtml" />
     <Content Include="Views\Book\ListBookModel.cshtml" />
     <Content Include="Views\Book\Index.cshtml" />
+    <Content Include="Views\Book\EditBook.cshtml" />
+    <Content Include="Views\Book\CreateBook.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
